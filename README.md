@@ -1,4 +1,4 @@
-## Olá meu nome é Lucas 👋 --
+## Olá meu nome é Lucas 👋 __
 
 <!--
 **lucasinf157/lucasinf157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

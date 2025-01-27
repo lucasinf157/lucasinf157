@@ -12,5 +12,5 @@ Me interesso bastante por web development e pela linguagem PHP <img src="https:/
 <p> Meu plano de carreira é ser um desenvolvedor Full stack, desenvolver sites e aplicações do absoluto zero, e um dia muito em breve poder compartihar isso pro mundo! </p>
 <hr>
 <h1> 🌐 Outras redes sociais</h1>
-<a href="https://www.instagram.com/lucaascastro71/?next=%2F" target="_blank"> 📱 Instagram</a>
+<a href="https://www.instagram.com/lucascastroinf/" target="_blank"> 📱 Instagram</a>
 

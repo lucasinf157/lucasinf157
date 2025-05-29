@@ -6,7 +6,7 @@ Me interesso bastante por web development e pela linguagem PHP <img src="https:/
 <hr>
 <h1> 🚀 O que estou aprendendo</h1>
 <p>Atualmente estudo Análise e Desenvolvimento de Sistemas e Desenvolvimento Web (client-side/front-end)</p> <br>
-<img src=https://ik.imagekit.io/6eslefmcf/flexiple-blog/frontend_QHZx39-uF.jpeg"</p>
+<img src="https://ik.imagekit.io/6eslefmcf/flexiple-blog/frontend_QHZx39-uF.jpeg"</p>
 <hr>
 <h1>🌉Objetivos e Carreira</h1>
 <p> Meu plano de carreira é ser um desenvolvedor Full stack, desenvolver sites e aplicações do absoluto zero, e um dia muito em breve poder compartihar isso pro mundo! </p>

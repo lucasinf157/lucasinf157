@@ -1,7 +1,7 @@
 ## Olá meu nome é Lucas, Sejam Bem Vindos ! 👨‍💻
 <hr>
 <h1>💻Interesses e Tecnologias</h1>
-Me interesso bastante por web development e pela linguagem PHP <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50"
+Me interesso bastante por web development e pela linguagem PHP <img src="https://www.php.net/images/logos/new-php-logo.svg" width="100"
 <hr>
 <hr>
 <h1> 🚀 O que estou aprendendo</h1>
